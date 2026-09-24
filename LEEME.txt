@@ -1,0 +1,9 @@
+BAUTIZO DE CAMILE SENDAYA SACA ARROYO
+14 de noviembre de 2026. Ceremonia 15:00, Parroquia San Miguel de Tiquipaya. Recepción 16:00, Avenida Ecológica, entre Cucardas Norte y Daniel Salamanca. Se conserva cada enlace GPS suministrado.
+Padres: Lizandro Saca Delgado y Cinthia Arroyo Navia.
+Padrino de bautizo: Ivan Rodrigo Arroyo Navia. Padrino de corte de cabello: Gari Saca.
+Confirmación: WhatsApp +591 68510453; el invitado completa su nombre y total de asistentes en el mensaje.
+Incluye angelito y castillo, apertura de sobre, composición de la foto original con arco floral, fondo de jardín, calendario con mariposa, cuenta regresiva hasta las 15:00 (Bolivia), destellos y música suministrada. El audio se inicia tras tocar el botón, sujeto a permisos del navegador; el control permite pausar/reintentar.
+PUBLICAR: descomprime y sube TODOS los archivos de esta carpeta a la raíz del repositorio de GitHub Pages. Mantén los nombres y reemplaza juntos HTML, CSS y JavaScript. No subas solo el HTML ni el ZIP sin descomprimir.
+El nombre comercial del salón no fue suministrado; aparece como Salón de eventos.
+Las ilustraciones y la composición fotográfica se generaron con image_gen, partiendo de la foto proporcionada para el retrato. La preferencia de reducir movimiento del dispositivo desactiva las animaciones.
